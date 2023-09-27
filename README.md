@@ -1,4 +1,4 @@
-# API RESTful de Gerenciamento de Transações Financeiras 
+# API RESTful de Gerenciamento de Transações Financeiras (projeto em dupla)
 
 Esta API RESTful oferece um conjunto de funcionalidades para o gerenciamento de transações financeiras. Com ela, os usuários podem cadastrar, visualizar, editar e excluir transações, além de obter informações sobre seu perfil e listar categorias disponíveis.
 
